@@ -3,7 +3,7 @@
 [![@davidlondonor's Holopin board](https://holopin.io/api/user/board?user=davidlondonor)](https://holopin.io/@davidlondonor)
 
 
-<a rel="me" href="https://mastodon.social/@davidlondonor">&nbsp;</a>
+<a rel="me" href="https://www.holopin.io/userbadge/cla1ud6bg285508kxv6rvfiox">&nbsp;</a>
 
 
 
